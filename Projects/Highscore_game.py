@@ -23,7 +23,8 @@ def game():
             f.write("")
     
     return score
-print("Press any key to get a random score:")
+print("Press any key to get a random and score:")
+print("hii")
 start=input()
 game()
     
