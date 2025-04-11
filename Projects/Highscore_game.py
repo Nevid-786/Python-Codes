@@ -26,14 +26,15 @@ def game():
             f.write("")  
 # Check if the file exists
 if os.path.exists("hiscore.txt"):
-    print(f"The file '{"hiscore.txt"}' already exists. No changes made.")
+    print(f"The file  already exists. No changes made.")
 else:
 
     #creates a file name hiscore
     with open("hiscore.txt", "w") as file:
         file.write("0")
-    print(f"The file '{"hiscore.txt"}' has been created.")    
+    print(f"The file has been created.")    
 print("Press any key to get a random score:")
 start=input()
+print('hello')
 game()
     
