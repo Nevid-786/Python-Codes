@@ -19,4 +19,4 @@ dict={
     'Banana':5
 }
 dict_counter=Counter(dict)
-print(dict_counter)                 #Counter({'Banana': 5, 'Apple': 4})
+print(dict_counter)  #Counter({'Banana': 5, 'Apple': 4})
