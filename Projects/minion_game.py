@@ -1,43 +1,19 @@
 def minion_game(string):
-    def counts(str,list):
-        count=0
-        end=start=0
-      
    
-        while end<len(string):
-            if str==string[start:len(str)+end]:
-                print(str)
-                count+=1
-            start+=1
-            end+=1
-        return count
-        
- 
     Vowels="AEIOU"
     kevin=0
-    str=''
-    k=0
+    stuart=0
     i=0
     while i <len(string):
         if string[i] in Vowels:
             k=i
-            str=''
             while k<len(string):
-                str=str+string[k]
-                kevin+=counts(str,list)
+                kevin+=1
                 k+=1
-        i+=1
-    stuart=0
-    str=''
-    k=0
-    i=0
-    while i <len(string):
-        if string[i] not in Vowels:
+        else: 
             k=i
-            str=''
             while k<len(string):
-                str=str+string[k]
-                stuart+=counts(str,list)
+                stuart+=1
                 k+=1
         i+=1
     if kevin > stuart:
