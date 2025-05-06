@@ -25,3 +25,10 @@ A.show()                  # access method using object
 print(A.Area)              #Access instance attribute of inner class using object
 print(Defence_Force.Moto)  #Access class attribute of outer class
 print(Defence_Force.Army.Moto_army) #Access class attribute of Inner clas
+#output:
+'''Nevid
+    AK47
+    AK47
+    Land
+    Be united
+    Be strong'''
