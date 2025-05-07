@@ -13,4 +13,4 @@ N.Instance_name('Aman') #instance method that takes first argument the object
 print(N.name)       #now object have its own attribute name "Aman"
 print(person.name)  #even though the name attribute is changed to Aman its o/p is "Nevid"
 N.cls_name('Nikhil')# as it donot change the class attribute but created a seprate attribut particularly for N object
-print(person.name)   # now class attribute can only be change either explicitly or by class method
+print(person.name)   # now class attribute can only be change either explicitly person.name="Nikhil" or by class method
