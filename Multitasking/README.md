@@ -1,6 +1,5 @@
 # 🧵 Learning Python Multitasking with Threads!
 
-Hey there! 👋  
 Welcome to my Python multitasking folder — a space where I'm exploring how to make programs do **multiple things at once** using **threads**.
 
 ---
