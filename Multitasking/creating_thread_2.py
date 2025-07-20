@@ -1,4 +1,4 @@
-#creating thread with using thread class
+ #creating thread with using thread class
 from threading import Thread
 #create a child class that inherits Thread as Parent class
 class Mythread(Thread):
@@ -19,3 +19,4 @@ t.start()
 def disp():
     print("Call disp inside Child thread")
 """
+       
