@@ -64,6 +64,9 @@ If you’re on a similar journey, let’s learn together:
 - ⭐ Drop a star if you find anything helpful  
 - 🔔 Follow me to track my progress  
 - 📬 Reach out if you want to collaborate!
+- <a href="https://www.linkedin.com/in/nevid-alam-293b04328/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 ---
 
